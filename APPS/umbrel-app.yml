@@ -1,0 +1,19 @@
+manifestVersion: 1
+id: lcc-solo-node
+name: Litecoin Cash Node
+tagline: Solo mine LCC (SHA-256) on your Umbrel.
+icon: https://litecoincash.org/logo.png
+category: Mining Nodes
+version: "1.0.0"
+port: 5012
+description: |
+  Full node for Litecoin Cash (LCC). Use this to contribute to the network and provide a local RPC for your SHA-256 mining equipment.
+developer: LCC Community
+website: https://litecoincash.org
+repo: https://github.com/tb348776-ux/lcc-store
+support: https://github.com/tb348776-ux/lcc-store
+gallery:
+  - https://litecoincash.org/logo.png
+releaseNotes: "Initial LCC Release"
+dependencies: []
+path: ""
